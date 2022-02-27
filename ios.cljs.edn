@@ -1,0 +1,4 @@
+^{:open-url false
+  :cljs-devtools false}
+{:main shitfield.main
+ :target :bundle}
